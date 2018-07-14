@@ -1,10 +1,4 @@
-
-   _____                _       _ 
-  / ____|              (_)     (_)
- | |  __  ___ _ __ ___  _ _ __  _ 
- | | |_ |/ _ \ '_ ` _ \| | '_ \| |
- | |__| |  __/ | | | | | | | | | |
-  \_____|\___|_| |_| |_|_|_| |_|_|
+![Alt text](https://i.gyazo.com/b434e3e95cf92d96fdd20169c4aae2be.png?raw=true "Optional Title")
                                   
 CLI Based Shoify Bot.
 
